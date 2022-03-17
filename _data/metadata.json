@@ -1,0 +1,21 @@
+{
+  "title": "straight-code",
+  "url": "https://stright-code.github.io/",
+  "language": "en",
+  "description": "straight-code forum",
+  "feed": {
+    "subtitle": "straight-code forum",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://stright-code.github.io/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://stright-code.github.io/feed/feed.json"
+  },
+  "author": {
+    "name": "Your Name Here",
+    "email": "youremailaddress@example.com",
+    "url": "https://stright-code.github.io/about-me/"
+  }
+}
